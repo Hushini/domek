@@ -1,0 +1,12 @@
+﻿  border.cpp
+  forest.cpp
+C:\Users\wh53911\Desktop\OOP-in-C--main\zad3_cpp\forest.cpp(32,13): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  rectangle.cpp
+  shape.cpp
+C:\Users\wh53911\Desktop\OOP-in-C--main\zad3_cpp\shape.cpp(22,9): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wh53911\Desktop\OOP-in-C--main\zad3_cpp\shape.cpp(22,6): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+  trapez.cpp
+  triangle.cpp
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\wh53911\Desktop\zad3\Project1\Debug\Project1.exe
